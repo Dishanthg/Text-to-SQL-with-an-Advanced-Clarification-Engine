@@ -62,7 +62,7 @@ not need to install Python, Node.js, PostgreSQL, or Redis on your computer.
 Open a terminal (PowerShell on Windows) and run:
 
 ```powershell
-git clone https://github.com/nagarjungowdakn13/Text-to-SQL-with-an-Advanced-Clarification-Engine.git
+git clone https://github.com/Dishanthg/Text-to-SQL-with-an-Advanced-Clarification-Engine.git
 cd Text-to-SQL-with-an-Advanced-Clarification-Engine
 docker compose up --build -d
 ```
